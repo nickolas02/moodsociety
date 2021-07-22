@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <header className={styles.header}>
         <ul className={styles.headerWrapper}>
           <Link href="/">
-            <a className={styles.siteTitle}>Dress</a>
+            <a className={styles.siteTitle}>Mood Society</a>
           </Link>
           <div className={styles.headerRight}>
             <DesktopMenu />

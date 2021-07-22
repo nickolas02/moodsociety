@@ -51,7 +51,7 @@ npm install or yarn install
 #### Add .env file to root server directory
 
 ```
-DATABASE_URI=
+DATABASE_URI=mongodb://moodsociety:gHKqMGRK9bR4LtvCT2ufbPc4sTLCy1opxLOjNhs8vkfFsxF5CP9tkygTBAc9rz1eIs2BS5tm6A9OQk2AnNoI4w==@moodsociety.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@moodsociety@
 JWT_SECRET=
 STRIPE_SECRET_API_KEY=
 GOOGLE_WEB_CLIENT_ID=
